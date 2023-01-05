@@ -42,7 +42,7 @@ username!
 @eshkim1021
 
 
-# PM566 Fall 2020 instructors
+# PHS7045 Fall 2023 instructors
 
 [**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual Basic and before going to business school I wanted to be a musician <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 
