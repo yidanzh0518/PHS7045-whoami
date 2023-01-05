@@ -1,6 +1,8 @@
 # Advanced Programming, Fall 2023
 
-You need to make a fork of this repository, find your name in the list below, and replace it with something like:
+You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
+
+[^credits]: This repository was originally created for [USC's Intro to Health Data Science](https://github.com/USCbiostats/PM566-whoami).
 
 ```md
 [**@your username**](the URL to your profile) something about you
@@ -22,24 +24,6 @@ yourself (that you don't mind publicly sharing). Remember to only modify the lin
 username!
 
 # PHS7045 Advanced Programming Students (Fall 2023)
-
-
-
-@cbegay89
-
-@mbolshakova
-
-@jiaheche
-
-@robindu552
-
-
-
-@Weijia-H
-
-
-
-@eshkim1021
 
 
 # PHS7045 Fall 2023 instructors
