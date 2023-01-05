@@ -1,4 +1,4 @@
-# Advanced Programming, Fall 2023
+# Advanced Programming, Spring 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -23,10 +23,10 @@ Look for your Github username and add a link to your Github profile and somethin
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
 
-# PHS7045 Advanced Programming Students (Fall 2023)
+# PHS7045 Advanced Programming Students (Spring 2023)
 
 
-# PHS7045 Fall 2023 instructors
+# PHS7045 Spring 2023 instructors
 
 [**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual Basic and before going to business school I wanted to be a musician <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 
