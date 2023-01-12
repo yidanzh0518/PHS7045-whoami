@@ -25,7 +25,7 @@ username!
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
-h.24901
+[**hyejung0**](https://github.com/hyejung0) I'm new to using Git and very excited to learn how to use it!
 
 Daniel-K-Addo
 
