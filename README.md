@@ -38,7 +38,7 @@ LindaAmoafo
 blessingofori-atta
 
 Quamena
-
+[**@Quamena**](https://github.com/Quamena) I am always ready to learn new things. I love comedy and soccer. I love to make with peace with all people
 Ravi
 
 
