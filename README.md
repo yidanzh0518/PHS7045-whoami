@@ -27,7 +27,7 @@ username!
 
 h.24901 
 
-Daniel-K-Addo
+[**@Daniel-K-Addo**](https://github.com/Daniel-K-Addo) If you're reading this, it means I finally resolved issues and successfully pulled request. I'm Daniel Addo from Ghana and in the 2nd year of the PHS program. Excited to be learning all this stuff.
 
 [**@Haojia-biostat**](https://github.com/Haojia-biostat) I am orginally from China and came to the US in 2019. I earned my Master's degree in Biostats & DS from Weill Cornell Medicine and joined SDBC in 2020 as a Master Biostatistician. This is the first sememster of my PhD study and I am excited!
 
