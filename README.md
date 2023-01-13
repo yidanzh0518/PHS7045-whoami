@@ -38,6 +38,7 @@ LindaAmoafo
 blessingofori-atta
 
 Quamena
+[**@Quamena**](https://github.com/Quamena) I am Eric, from Ghana. I am always ready to learn new things. I love to watch football games and comedy.
 
 Ravi
 
