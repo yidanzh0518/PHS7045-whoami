@@ -1,4 +1,4 @@
-# Advanced Programming, Spring 2023
+g# Advanced Programming, Spring 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -29,9 +29,9 @@ h.24901
 
 Daniel-K-Addo
 
-Hoajia-biostats
+[**@Haojia-biostat**](https://github.com/Haojia-biostat) I am orginally from China and came to the US in 2019. I earned my Master's degree in Biostats & DS from Weill Cornell Medicine and joined SDBC in 2020 as a Master Biostatistician. This is the first sememster of my PhD study and I am excited!
 
-KPDuBose
+KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
 LindaAmoafo
 
