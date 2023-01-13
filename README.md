@@ -29,7 +29,7 @@ h.24901
 
 Daniel-K-Addo
 
-Hoajia-biostats
+[**@Haojia-biostat**](https://github.com/Haojia-biostat) I am orginally from China and came to the US in 2019. I earned my Master's degree in Biostats & DS from Weill Cornell Medicine and joined SDBC in 2020 as a Master Biostatistician. This is the first sememster of my PhD study and I am excited!
 
 KPDuBose
 
