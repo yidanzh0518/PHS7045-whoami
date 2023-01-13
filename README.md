@@ -39,9 +39,7 @@ blessingofori-atta
 
 Quamena
 
-Ravi
-
-I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
+[**@Ravi**](https://github.com/u1374012) I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
 
 
 # PHS7045 Spring 2023 instructors
