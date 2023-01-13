@@ -40,9 +40,7 @@ blessingofori-atta
 Quamena
 [**@Quamena**](https://github.com/Quamena) I am Eric, from Ghana. I am always ready to learn new things. I love to watch football games and comedy.
 
-Ravi
-
-I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
+[**@Ravi**](https://github.com/u1374012) I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
 
 
 # PHS7045 Spring 2023 instructors
