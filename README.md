@@ -27,7 +27,7 @@ username!
 
 h.24901
 
-Daniel-K-Addo
+[**@Daniel-K-Addo**](https://github.com/Daniel-K-Addo) If you're reading this, it means I finally resolved issues and successfully pulled request. I'm Daniel Addo from Ghana and in the 2nd year of the PHS program. Excited to be learning all this stuff.
 
 Hoajia-biostats
 
