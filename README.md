@@ -25,7 +25,7 @@ username!
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
-h.24901 
+[**hyejung0**](https://github.com/hyejung0) I'm new to using Git and very excited to learn how to use it!
 
 [**@Daniel-K-Addo**](https://github.com/Daniel-K-Addo) If you're reading this, it means I finally resolved issues and successfully pulled request. I'm Daniel Addo from Ghana and in the 2nd year of the PHS program. Excited to be learning all this stuff.
 
@@ -33,7 +33,7 @@ h.24901
 
 KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
-LindaAmoafo 
+[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! <img src="A-pic-of-me.jpeg" width="40" height="40px">
 
 blessingofori-atta
 
