@@ -1,4 +1,4 @@
-# Advanced Programming, Spring 2023
+Advanced Programming, Spring 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -27,23 +27,27 @@ username!
 
 [**hyejung0**](https://github.com/hyejung0) I'm new to using Git and very excited to learn how to use it!
 
-Daniel-K-Addo
+[**@Daniel-K-Addo**](https://github.com/Daniel-K-Addo) If you're reading this, it means I finally resolved issues and successfully pulled request. I'm Daniel Addo from Ghana and in the 2nd year of the PHS program. Excited to be learning all this stuff.
 
-Hoajia-biostats
+[**@Haojia-biostat**](https://github.com/Haojia-biostat) I am orginally from China and came to the US in 2019. I earned my Master's degree in Biostats & DS from Weill Cornell Medicine and joined SDBC in 2020 as a Master Biostatistician. This is the first sememster of my PhD study and I am excited!
 
-KPDuBose
+KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
-LindaAmoafo
+[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! <img src="A-pic-of-me.jpeg" width="40" height="40px">
 
 blessingofori-atta
 
 Quamena
+[**@Quamena**](https://github.com/Quamena) I am Eric, from Ghana. I am always ready to learn new things. I love to watch football games and comedy.
 
-Ravi
+[**@Ravi**](https://github.com/u1374012) I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
 
 
 # PHS7045 Spring 2023 instructors
 
 [**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual Basic and before going to business school I wanted to be a musician <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 
-@chipmanj
+[**@chipmanj**](https://github.com/chipmanj) I've lived in many states across the US -- born in Dallas, TX; grew up in Carmel, IN; studied statistics in Provo, UT; earned a masters in Biostatistics in Minneapolis, MN; worked as a masters-level statistician in Boston, MA; earned a doctorate in Biostatistics in Nashville, TN; and now work in Salt Lake City, UT 
+
+
+[**@gvegayon**](https://ggv.cl) A new line
