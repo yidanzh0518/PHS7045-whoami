@@ -25,7 +25,7 @@ username!
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
-h.24901 
+[**hyejung0**](https://github.com/hyejung0) I'm new to using Git and very excited to learn how to use it!
 
 [**@Daniel-K-Addo**](https://github.com/Daniel-K-Addo) If you're reading this, it means I finally resolved issues and successfully pulled request. I'm Daniel Addo from Ghana and in the 2nd year of the PHS program. Excited to be learning all this stuff.
 
