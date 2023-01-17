@@ -1,4 +1,4 @@
-g# Advanced Programming, Spring 2023
+# Advanced Programming, Spring 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -33,7 +33,7 @@ h.24901
 
 KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
-LindaAmoafo
+LindaAmoafo 
 
 blessingofori-atta
 
@@ -42,6 +42,7 @@ Quamena
 
 [**@Ravi**](https://github.com/u1374012) I am Ravi (as my username suggest it). Grew up in India, and moved to US in 2018. Interested in Statistics and Badminton, and not sure which one I like more.
 
+[**rberch**](https://github.com/rberch) My name is Ransmond and I grew up in Ghana. I love European football, and I am a Barcelona fan.
 
 # PHS7045 Spring 2023 instructors
 
