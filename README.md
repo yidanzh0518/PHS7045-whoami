@@ -33,7 +33,7 @@ h.24901
 
 KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
-[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! ![Alt text](/A-pic-of-me.jpeg) 
+[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! ![Alt text](/A-pic-of-me.jpeg width="40px") 
 
 blessingofori-atta
 
