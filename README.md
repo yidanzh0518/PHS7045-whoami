@@ -1,4 +1,4 @@
-g# Advanced Programming, Spring 2023
+Advanced Programming, Spring 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -33,7 +33,7 @@ h.24901
 
 KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, and used to swim competitively. 
 
-[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo from Ghana and I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out!  
+[**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! <img src="/Documents/PHS7045/PHS7045-whoami/A-pic-of-me.jpeg" alt=> 
 
 blessingofori-atta
 
