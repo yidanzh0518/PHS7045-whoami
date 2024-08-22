@@ -43,12 +43,11 @@ username!
 
 - MICHAEL
 
-- GEORGE
+- [@gvegayon](https://github.com/gvegayon) I am chilean, I play the guitar and sing, I like biking (MTB). I have two kids and a dog.
 
 - YINGJIA
 
 - [**@yidanzh0518**](https://github.com/yidanzh0518) I am excited to learn from the class
-
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
