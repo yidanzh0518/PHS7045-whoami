@@ -1,4 +1,4 @@
-# Advanced Programming, Spring 2023
+# Advanced Programming
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
@@ -22,6 +22,33 @@ Basic and before going to business school I wanted to be a musician
 Look for your Github username and add a link to your Github profile and something about
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
+
+# PHS7045 Advanced Programming Students (Fall 2024)
+
+- JULIA
+
+- JONATHAN
+
+- CHRISTIAN
+
+- LINGYI
+
+- SOPHIE
+
+- YONGJUN
+
+- SIMA
+
+- BLESSING-ATTA
+
+- MICHAEL
+
+- GEORGE
+
+- YINGJIA
+
+- YIDAN
+
 
 # PHS7045 Advanced Programming Students (Spring 2023)
 
