@@ -47,7 +47,7 @@ username!
 
 - YINGJIA
 
-- YIDAN
+- [**@yidanzh0518**](https://github.com/yidanzh0518) I am excited to learn from the class
 
 
 # PHS7045 Advanced Programming Students (Spring 2023)
